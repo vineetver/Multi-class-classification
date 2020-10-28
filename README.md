@@ -1,6 +1,6 @@
 # Multi-class Classification using Tensorflow and Keras
 
-Notebook PDF: [Multi-class Classification with MNIST.pdf](https://github.com/vineetver/Multi-class-classification-MNIST/files/5453336/Multi-class.Classification.with.MNIST.pdf)
+Notebook PDF: [Multi class Classification with MNIST.pdf](https://github.com/vineetver/Multi-class-classification-MNIST/files/5453336/Multi-class.Classification.with.MNIST.pdf)
 
 # Conclusion
 
