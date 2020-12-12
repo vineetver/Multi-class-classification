@@ -6,4 +6,3 @@ Notebook PDF: [Multi class Classification with MNIST.pdf](https://github.com/vin
 
 When trained on 60 epochs with a batch size of 4000, the model gives a training accuracy of 0.98 based on sparse_categorical_crossentropy loss function and a loss of around 0.0723.
 
-Please help me improve the results.
